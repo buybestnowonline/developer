@@ -1,3 +1,11 @@
+## 20.0
+
+Release date: 2022-01-24
+
+#### Other
+
+* Bumps the Yoast SEO minimum required version to 20.0.
+
 ## 19.7
 
 Release date: 2023-01-10
